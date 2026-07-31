@@ -5,8 +5,8 @@
 %global crate hex-literal
 
 Name:           rust-%{crate}
-Version:        0.2.1
-Release:        2%{?dist}
+Version:        1.1.0
+Release:        1%{?dist}
 Summary:        Procedural macro for converting hexadecimal string to byte array at compile time
 
 # Upstream license specification: MIT OR Apache-2.0
